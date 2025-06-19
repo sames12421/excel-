@@ -35,9 +35,9 @@ The goal is to assist the KPMG team in enhancing their client’s data-driven de
 ### 👩‍🎓 **Ritu Jawalkar**  
 🎓 *AI & ML Engineering Student*  
 💼 *Aspiring Data Scientist | Excel & Python Enthusiast*  
-
+<td>
 [![LinkedIn Badge](www.linkedin.com/in/ritu-jawalkar-0a51b4288
-
+</td>
 </td>
 </tr>
 </table>
