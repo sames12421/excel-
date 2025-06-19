@@ -29,9 +29,7 @@ The goal is to assist the KPMG team in enhancing their client’s data-driven de
 
 <table>
 <tr>
-<td width="150px">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="120px" style="border-radius: 50%;" alt="Ritu's Profile Picture"/>
-</td>
+
 <td>
 
 ### 👩‍🎓 **Ritu Jawalkar**  
