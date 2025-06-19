@@ -25,3 +25,30 @@ The goal is to assist the KPMG team in enhancing their client’s data-driven de
 
 ---
 
+## 🙋‍♀️ About Me
+
+<table>
+<tr>
+<td width="150px">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="120px" style="border-radius: 50%;" alt="Ritu's Profile Picture"/>
+</td>
+<td>
+
+### 👩‍🎓 **Ritu Jawalkar**  
+🎓 *AI & ML Engineering Student*  
+💼 *Aspiring Data Scientist | Excel & Python Enthusiast*  
+
+[![LinkedIn Badge](www.linkedin.com/in/ritu-jawalkar-0a51b4288
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💡 Fun Facts About Me:
+- 🔍 Passionate about solving real-world problems using data.
+- 📊 Love building dashboards and analyzing data trends.
+- 🧠 Always exploring ML models and AI algorithms.
+- ✨ Believer in lifelong learning and growth mindset.
+
